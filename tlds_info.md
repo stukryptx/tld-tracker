@@ -1331,6 +1331,8 @@ ve | country-code | Comisión Nacional de Telecomunicaciones (CONATEL)
 vegas | generic | Dot Vegas, Inc.
 ventures | generic | Binky Moon, LLC
 verisign | generic | VeriSign, Inc.
+vermögensberater | generic | Deutsche Vermögensberatung Aktiengesellschaft DVAG
+vermögensberatung | generic | Deutsche Vermögensberatung Aktiengesellschaft DVAG
 versicherung | generic | tldbox GmbH
 vet | generic | Dog Beach, LLC
 vg | country-code | Telecommunications Regulatory Commission of the Virgin Islands
@@ -1401,176 +1403,157 @@ xerox | generic | Xerox DNHC LLC
 xfinity | generic | Not assigned
 xihuan | generic | Beijing Qihu Keji Co., Ltd.
 xin | generic | Elegant Leader Limited
-测试 | test | Not assigned
-कॉम | generic | VeriSign Sarl
-परीक्षा | test | Not assigned
-セール | generic | Amazon Registry Services, Inc.
-佛山 | generic | Guangzhou YU Wei Information Technology Co., Ltd.
-ಭಾರತ | country-code | National Internet eXchange of India
-慈善 | generic | Excellent First Limited
-集团 | generic | Eagle Horizon Limited
-在线 | generic | Beijing TLD Registry Technology Limited
-한국 | country-code | KISA (Korea Internet & Security Agency)
-ଭାରତ | country-code | National Internet eXchange of India
-大众汽车 | generic | Not assigned
-点看 | generic | VeriSign Sarl
-คอม | generic | VeriSign Sarl
-ভাৰত | country-code | National Internet eXchange of India
-ভারত | country-code | National Internet Exchange of India
-八卦 | generic | Zodiac Gemini Ltd
-‏ישראל‎ | country-code | The Israel Internet Association (RA)
-‏موقع‎ | generic | Helium TLDs Ltd
-一号店 | generic | Not assigned
-বাংলা | country-code | Posts and Telecommunications Division
-公益 | generic | China Organizational Name Administration Center
-公司 | generic | China Internet Network Information Center (CNNIC)
-香格里拉 | generic | Shangri-La International Hotel Management Limited
-网站 | generic | Global Website TLD Asia Limited
-移动 | generic | Identity Digital Limited
-我爱你 | generic | Tycoon Treasure Limited
-москва | generic | Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)
-испытание | test | Not assigned
-қаз | country-code | Association of IT Companies of Kazakhstan
-католик | generic | Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
-онлайн | generic | CORE Association
-сайт | generic | CORE Association
-联通 | generic | China United Network Communications Corporation Limited
-срб | country-code | Serbian National Internet Domain Registry (RNIDS)
-бг | country-code | Imena.BG AD
-бел | country-code | Belarusian Cloud Technologies LLC
-‏קום‎ | generic | VeriSign Sarl
-时尚 | generic | RISE VICTORY LIMITED
-微博 | generic | Sina Corporation
-테스트 | test | Not assigned
-淡马锡 | generic | Temasek Holdings (Private) Limited
-ファッション | generic | Amazon Registry Services, Inc.
-орг | generic | Public Interest Registry
-नेट | generic | VeriSign Sarl
-ストア | generic | Amazon Registry Services, Inc.
-アマゾン | generic | Amazon Registry Services, Inc.
-삼성 | generic | SAMSUNG SDS CO., LTD
-சிங்கப்பூர் | country-code | Singapore Network Information Centre (SGNIC) Pte Ltd
-商标 | generic | Internet DotTrademark Organisation Limited
-商店 | generic | Binky Moon, LLC
-商城 | generic | Zodiac Aquarius Limited
-дети | generic | The Foundation for Network Initiatives “The Smart Internet”
-мкд | country-code | Macedonian Academic Research Network Skopje
-‏טעסט‎ | test | Not assigned
-ею | country-code | EURid vzw
-ポイント | generic | Amazon Registry Services, Inc.
-新闻 | generic | Guangzhou YU Wei Information and Technology Co.,Ltd
-工行 | generic | Not assigned
-家電 | generic | Amazon Registry Services, Inc.
-‏كوم‎ | generic | VeriSign Sarl
-中文网 | generic | Beijing TLD Registry Technology Limited
-中信 | generic | CITIC Group Corporation
-中国 | country-code | China Internet Network Information Center (CNNIC)
-中國 | country-code | China Internet Network Information Center (CNNIC)
-娱乐 | generic | Binky Moon, LLC
-谷歌 | generic | Charleston Road Registry Inc.
-భారత్ | country-code | National Internet Exchange of India
-ලංකා | country-code | LK Domain Registry
-電訊盈科 | generic | PCCW Enterprises Limited
-购物 | generic | Nawang Heli(Xiamen) Network Service Co., LTD.
-測試 | test | Not assigned
-クラウド | generic | Amazon Registry Services, Inc.
-ભારત | country-code | National Internet Exchange of India
-通販 | generic | Amazon Registry Services, Inc.
-भारतम् | country-code | National Internet eXchange of India
-भारत | country-code | National Internet Exchange of India
-भारोत | country-code | National Internet eXchange of India
-‏آزمایشی‎ | test | Not assigned
-பரிட்சை | test | Not assigned
-网店 | generic | Zodiac Taurus Ltd.
-संगठन | generic | Public Interest Registry
-餐厅 | generic | Internet DotTrademark Organisation Limited
-网络 | generic | China Internet Network Information Center (CNNIC)
-ком | generic | VeriSign Sarl
-укр | country-code | Ukrainian Network Information Centre (UANIC), Inc.
-香港 | country-code | Hong Kong Internet Registration Corporation Ltd.
-亚马逊 | generic | Amazon Registry Services, Inc.
-诺基亚 | generic | Not assigned
-食品 | generic | Amazon Registry Services, Inc.
-δοκιμή | test | Not assigned
-飞利浦 | generic | Koninklijke Philips N.V.
-‏إختبار‎ | test | Not assigned
-台湾 | country-code | Taiwan Network Information Center (TWNIC)
-台灣 | country-code | Taiwan Network Information Center (TWNIC)
-手表 | generic | Not assigned
-手机 | generic | Beijing RITT-Net Technology Development Co., Ltd
-мон | country-code | Datacom Co.,Ltd
-‏الجزائر‎ | country-code | CERIST
-‏عمان‎ | country-code | Telecommunications Regulatory Authority (TRA)
-‏ارامكو‎ | generic | Aramco Services Company
-‏ایران‎ | country-code | Institute for Research in Fundamental Sciences (IPM)
-‏العليان‎ | generic | Competrol (Luxembourg) Sarl
-‏اتصالات‎ | generic | Not assigned
-‏امارات‎ | country-code | Telecommunications and Digital Government Regulatory Authority (TDRA)
-‏بازار‎ | generic | CORE Association
-‏موريتانيا‎ | country-code | Université de Nouakchott Al Aasriya
-‏پاکستان‎ | country-code | National Telecommunication Corporation
-‏الاردن‎ | country-code | Ministry of Digital Economy and Entrepreneurship (MoDEE)
-‏موبايلي‎ | generic | Not assigned
-‏بارت‎ | country-code | National Internet eXchange of India
-‏بھارت‎ | country-code | National Internet Exchange of India
-‏المغرب‎ | country-code | Agence Nationale de Réglementation des Télécommunications (ANRT)
-‏ابوظبي‎ | generic | Abu Dhabi Systems and Information Centre
-‏البحرين‎ | country-code | Telecommunications Regulatory Authority (TRA)
-‏السعودية‎ | country-code | Communications, Space and Technology Commission
-‏ڀارت‎ | country-code | National Internet eXchange of India
-‏كاثوليك‎ | generic | Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
-‏سودان‎ | country-code | Sudan Internet Society
-‏همراه‎ | generic | Emergency Back-End Registry Operator Program - ICANN
-‏عراق‎ | country-code | Communications and Media Commission (CMC)
-‏مليسيا‎ | country-code | MYNIC Berhad
-澳門 | country-code | Macao Post and Telecommunications Bureau (CTT)
-닷컴 | generic | VeriSign Sarl
-政府 | generic | Net-Chinese Co., Ltd.
-‏شبكة‎ | generic | International Domain Registry Pty. Ltd.
-‏بيتك‎ | generic | Kuwait Finance House
-‏عرب‎ | generic | League of Arab States
-გე | country-code | Information Technologies Development Center (ITDC)
-机构 | generic | Public Interest Registry
-组织机构 | generic | Public Interest Registry
-健康 | generic | Stable Tone Limited
-ไทย | country-code | Thai Network Information Center Foundation
-‏سورية‎ | country-code | National Authority for Information Technology Services (NAITS)
-招聘 | generic | Jiang Yu Liang Cai Technology Company Limited
-рус | generic | Rusnames Limited
-рф | country-code | Coordination Center for TLD RU
-珠宝 | generic | Not assigned
-‏تونس‎ | country-code | Agence Tunisienne d'Internet
-大拿 | generic | VeriSign Sarl
-ລາວ | country-code | Lao National Internet Center (LANIC), Ministry of Technology and Communications
-みんな | generic | Charleston Road Registry Inc.
-グーグル | generic | Charleston Road Registry Inc.
-ευ | country-code | EURid vzw
-ελ | country-code | ICS-FORTH GR
-世界 | generic | Stable Tone Limited
-書籍 | generic | Amazon Registry Services, Inc.
-ഭാരതം | country-code | National Internet eXchange of India
-ਭਾਰਤ | country-code | National Internet Exchange of India
-网址 | generic | KNET Co., Ltd
-닷넷 | generic | VeriSign Sarl
-コム | generic | VeriSign Sarl
-天主教 | generic | Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
-游戏 | generic | Binky Moon, LLC
-vermögensberater | generic | Deutsche Vermögensberatung Aktiengesellschaft DVAG
-vermögensberatung | generic | Deutsche Vermögensberatung Aktiengesellschaft DVAG
-企业 | generic | Binky Moon, LLC
-信息 | generic | Beijing Tele-info Technology Co., Ltd.
-嘉里大酒店 | generic | Kerry Trading Co. Limited
-嘉里 | generic | Kerry Trading Co. Limited
-‏مصر‎ | country-code | National Telecommunication Regulatory Authority - NTRA
-‏قطر‎ | country-code | Communications Regulatory Authority
-广东 | generic | Guangzhou YU Wei Information Technology Co., Ltd.
-இலங்கை | country-code | LK Domain Registry
-இந்தியா | country-code | National Internet Exchange of India
-հայ | country-code | "Internet Society" Non-governmental Organization
-新加坡 | country-code | Singapore Network Information Centre (SGNIC) Pte Ltd
-‏فلسطين‎ | country-code | Ministry of Telecom & Information Technology (MTIT)
-テスト | test | Not assigned
-政务 | generic | China Organizational Name Administration Center
+xn--11b4c3d | Unknown | Unknown
+xn--1ck2e1b | Unknown | Unknown
+xn--1qqw23a | Unknown | Unknown
+xn--2scrj9c | Unknown | Unknown
+xn--30rr7y | Unknown | Unknown
+xn--3bst00m | Unknown | Unknown
+xn--3ds443g | Unknown | Unknown
+xn--3e0b707e | Unknown | Unknown
+xn--3hcrj9c | Unknown | Unknown
+xn--3pxu8k | Unknown | Unknown
+xn--42c2d9a | Unknown | Unknown
+xn--45br5cyl | Unknown | Unknown
+xn--45brj9c | Unknown | Unknown
+xn--45q11c | Unknown | Unknown
+xn--4dbrk0ce | Unknown | Unknown
+xn--4gbrim | Unknown | Unknown
+xn--54b7fta0cc | Unknown | Unknown
+xn--55qw42g | Unknown | Unknown
+xn--55qx5d | Unknown | Unknown
+xn--5su34j936bgsg | Unknown | Unknown
+xn--5tzm5g | Unknown | Unknown
+xn--6frz82g | Unknown | Unknown
+xn--6qq986b3xl | Unknown | Unknown
+xn--80adxhks | Unknown | Unknown
+xn--80ao21a | Unknown | Unknown
+xn--80aqecdr1a | Unknown | Unknown
+xn--80asehdb | Unknown | Unknown
+xn--80aswg | Unknown | Unknown
+xn--8y0a063a | Unknown | Unknown
+xn--90a3ac | Unknown | Unknown
+xn--90ae | Unknown | Unknown
+xn--90ais | Unknown | Unknown
+xn--9dbq2a | Unknown | Unknown
+xn--9et52u | Unknown | Unknown
+xn--9krt00a | Unknown | Unknown
+xn--b4w605ferd | Unknown | Unknown
+xn--bck1b9a5dre4c | Unknown | Unknown
+xn--c1avg | Unknown | Unknown
+xn--c2br7g | Unknown | Unknown
+xn--cck2b3b | Unknown | Unknown
+xn--cckwcxetd | Unknown | Unknown
+xn--cg4bki | Unknown | Unknown
+xn--clchc0ea0b2g2a9gcd | Unknown | Unknown
+xn--czr694b | Unknown | Unknown
+xn--czrs0t | Unknown | Unknown
+xn--czru2d | Unknown | Unknown
+xn--d1acj3b | Unknown | Unknown
+xn--d1alf | Unknown | Unknown
+xn--e1a4c | Unknown | Unknown
+xn--eckvdtc9d | Unknown | Unknown
+xn--efvy88h | Unknown | Unknown
+xn--fct429k | Unknown | Unknown
+xn--fhbei | Unknown | Unknown
+xn--fiq228c5hs | Unknown | Unknown
+xn--fiq64b | Unknown | Unknown
+xn--fiqs8s | Unknown | Unknown
+xn--fiqz9s | Unknown | Unknown
+xn--fjq720a | Unknown | Unknown
+xn--flw351e | Unknown | Unknown
+xn--fpcrj9c3d | Unknown | Unknown
+xn--fzc2c9e2c | Unknown | Unknown
+xn--fzys8d69uvgm | Unknown | Unknown
+xn--g2xx48c | Unknown | Unknown
+xn--gckr3f0f | Unknown | Unknown
+xn--gecrj9c | Unknown | Unknown
+xn--gk3at1e | Unknown | Unknown
+xn--h2breg3eve | Unknown | Unknown
+xn--h2brj9c | Unknown | Unknown
+xn--h2brj9c8c | Unknown | Unknown
+xn--hxt814e | Unknown | Unknown
+xn--i1b6b1a6a2e | Unknown | Unknown
+xn--imr513n | Unknown | Unknown
+xn--io0a7i | Unknown | Unknown
+xn--j1aef | Unknown | Unknown
+xn--j1amh | Unknown | Unknown
+xn--j6w193g | Unknown | Unknown
+xn--jlq480n2rg | Unknown | Unknown
+xn--jvr189m | Unknown | Unknown
+xn--kcrx77d1x4a | Unknown | Unknown
+xn--kprw13d | Unknown | Unknown
+xn--kpry57d | Unknown | Unknown
+xn--kput3i | Unknown | Unknown
+xn--l1acc | Unknown | Unknown
+xn--lgbbat1ad8j | Unknown | Unknown
+xn--mgb9awbf | Unknown | Unknown
+xn--mgba3a3ejt | Unknown | Unknown
+xn--mgba3a4f16a | Unknown | Unknown
+xn--mgba7c0bbn0a | Unknown | Unknown
+xn--mgbaam7a8h | Unknown | Unknown
+xn--mgbab2bd | Unknown | Unknown
+xn--mgbah1a3hjkrd | Unknown | Unknown
+xn--mgbai9azgqp6j | Unknown | Unknown
+xn--mgbayh7gpa | Unknown | Unknown
+xn--mgbbh1a | Unknown | Unknown
+xn--mgbbh1a71e | Unknown | Unknown
+xn--mgbc0a9azcg | Unknown | Unknown
+xn--mgbca7dzdo | Unknown | Unknown
+xn--mgbcpq6gpa1a | Unknown | Unknown
+xn--mgberp4a5d4ar | Unknown | Unknown
+xn--mgbgu82a | Unknown | Unknown
+xn--mgbi4ecexp | Unknown | Unknown
+xn--mgbpl2fh | Unknown | Unknown
+xn--mgbt3dhd | Unknown | Unknown
+xn--mgbtx2b | Unknown | Unknown
+xn--mgbx4cd0ab | Unknown | Unknown
+xn--mix891f | Unknown | Unknown
+xn--mk1bu44c | Unknown | Unknown
+xn--mxtq1m | Unknown | Unknown
+xn--ngbc5azd | Unknown | Unknown
+xn--ngbe9e0a | Unknown | Unknown
+xn--ngbrx | Unknown | Unknown
+xn--node | Unknown | Unknown
+xn--nqv7f | Unknown | Unknown
+xn--nqv7fs00ema | Unknown | Unknown
+xn--nyqy26a | Unknown | Unknown
+xn--o3cw4h | Unknown | Unknown
+xn--ogbpf8fl | Unknown | Unknown
+xn--otu796d | Unknown | Unknown
+xn--p1acf | Unknown | Unknown
+xn--p1ai | Unknown | Unknown
+xn--pgbs0dh | Unknown | Unknown
+xn--pssy2u | Unknown | Unknown
+xn--q7ce6a | Unknown | Unknown
+xn--q9jyb4c | Unknown | Unknown
+xn--qcka1pmc | Unknown | Unknown
+xn--qxa6a | Unknown | Unknown
+xn--qxam | Unknown | Unknown
+xn--rhqv96g | Unknown | Unknown
+xn--rovu88b | Unknown | Unknown
+xn--rvc1e0am3e | Unknown | Unknown
+xn--s9brj9c | Unknown | Unknown
+xn--ses554g | Unknown | Unknown
+xn--t60b56a | Unknown | Unknown
+xn--tckwe | Unknown | Unknown
+xn--tiq49xqyj | Unknown | Unknown
+xn--unup4y | Unknown | Unknown
+xn--vermgensberater-ctb | Unknown | Unknown
+xn--vermgensberatung-pwb | Unknown | Unknown
+xn--vhquv | Unknown | Unknown
+xn--vuq861b | Unknown | Unknown
+xn--w4r85el8fhu5dnra | Unknown | Unknown
+xn--w4rs40l | Unknown | Unknown
+xn--wgbh1c | Unknown | Unknown
+xn--wgbl6a | Unknown | Unknown
+xn--xhq521b | Unknown | Unknown
+xn--xkc2al3hye2a | Unknown | Unknown
+xn--xkc2dl3a5ee0h | Unknown | Unknown
+xn--y9a3aq | Unknown | Unknown
+xn--yfro4i67o | Unknown | Unknown
+xn--ygbi2ammx | Unknown | Unknown
+xn--zfr164b | Unknown | Unknown
 xperia | generic | Not assigned
 xxx | sponsored | ICM Registry LLC
 xyz | generic | XYZ.COM LLC
@@ -1596,3 +1579,171 @@ zm | country-code | Zambia Information and Communications Technology Authority (
 zone | generic | Binky Moon, LLC
 zuerich | generic | Kanton Zürich (Canton of Zurich)
 zw | country-code | Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)
+δοκιμή | test | Not assigned
+ελ | country-code | ICS-FORTH GR
+ευ | country-code | EURid vzw
+бг | country-code | Imena.BG AD
+бел | country-code | Belarusian Cloud Technologies LLC
+дети | generic | The Foundation for Network Initiatives “The Smart Internet”
+ею | country-code | EURid vzw
+испытание | test | Not assigned
+католик | generic | Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
+ком | generic | VeriSign Sarl
+мкд | country-code | Macedonian Academic Research Network Skopje
+мон | country-code | Datacom Co.,Ltd
+москва | generic | Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)
+онлайн | generic | CORE Association
+орг | generic | Public Interest Registry
+рус | generic | Rusnames Limited
+рф | country-code | Coordination Center for TLD RU
+сайт | generic | CORE Association
+срб | country-code | Serbian National Internet Domain Registry (RNIDS)
+укр | country-code | Ukrainian Network Information Centre (UANIC), Inc.
+қаз | country-code | Association of IT Companies of Kazakhstan
+հայ | country-code | "Internet Society" Non-governmental Organization
+कॉम | generic | VeriSign Sarl
+नेट | generic | VeriSign Sarl
+परीक्षा | test | Not assigned
+भारत | country-code | National Internet Exchange of India
+भारतम् | country-code | National Internet eXchange of India
+भारोत | country-code | National Internet eXchange of India
+संगठन | generic | Public Interest Registry
+বাংলা | country-code | Posts and Telecommunications Division
+ভারত | country-code | National Internet Exchange of India
+ভাৰত | country-code | National Internet eXchange of India
+ਭਾਰਤ | country-code | National Internet Exchange of India
+ભારત | country-code | National Internet Exchange of India
+ଭାରତ | country-code | National Internet eXchange of India
+இந்தியா | country-code | National Internet Exchange of India
+இலங்கை | country-code | LK Domain Registry
+சிங்கப்பூர் | country-code | Singapore Network Information Centre (SGNIC) Pte Ltd
+பரிட்சை | test | Not assigned
+భారత్ | country-code | National Internet Exchange of India
+ಭಾರತ | country-code | National Internet eXchange of India
+ഭാരതം | country-code | National Internet eXchange of India
+ලංකා | country-code | LK Domain Registry
+คอม | generic | VeriSign Sarl
+ไทย | country-code | Thai Network Information Center Foundation
+ລາວ | country-code | Lao National Internet Center (LANIC), Ministry of Technology and Communications
+გე | country-code | Information Technologies Development Center (ITDC)
+‏טעסט‎ | test | Not assigned
+‏ישראל‎ | country-code | The Israel Internet Association (RA)
+‏קום‎ | generic | VeriSign Sarl
+‏آزمایشی‎ | test | Not assigned
+‏إختبار‎ | test | Not assigned
+‏ابوظبي‎ | generic | Abu Dhabi Systems and Information Centre
+‏اتصالات‎ | generic | Not assigned
+‏ارامكو‎ | generic | Aramco Services Company
+‏الاردن‎ | country-code | Ministry of Digital Economy and Entrepreneurship (MoDEE)
+‏البحرين‎ | country-code | Telecommunications Regulatory Authority (TRA)
+‏الجزائر‎ | country-code | CERIST
+‏السعودية‎ | country-code | Communications, Space and Technology Commission
+‏العليان‎ | generic | Competrol (Luxembourg) Sarl
+‏المغرب‎ | country-code | Agence Nationale de Réglementation des Télécommunications (ANRT)
+‏امارات‎ | country-code | Telecommunications and Digital Government Regulatory Authority (TDRA)
+‏ایران‎ | country-code | Institute for Research in Fundamental Sciences (IPM)
+‏بارت‎ | country-code | National Internet eXchange of India
+‏بازار‎ | generic | CORE Association
+‏بيتك‎ | generic | Kuwait Finance House
+‏بھارت‎ | country-code | National Internet Exchange of India
+‏تونس‎ | country-code | Agence Tunisienne d'Internet
+‏سودان‎ | country-code | Sudan Internet Society
+‏سورية‎ | country-code | National Authority for Information Technology Services (NAITS)
+‏شبكة‎ | generic | International Domain Registry Pty. Ltd.
+‏عراق‎ | country-code | Communications and Media Commission (CMC)
+‏عرب‎ | generic | League of Arab States
+‏عمان‎ | country-code | Telecommunications Regulatory Authority (TRA)
+‏فلسطين‎ | country-code | Ministry of Telecom & Information Technology (MTIT)
+‏قطر‎ | country-code | Communications Regulatory Authority
+‏كاثوليك‎ | generic | Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
+‏كوم‎ | generic | VeriSign Sarl
+‏مصر‎ | country-code | National Telecommunication Regulatory Authority - NTRA
+‏مليسيا‎ | country-code | MYNIC Berhad
+‏موبايلي‎ | generic | Not assigned
+‏موريتانيا‎ | country-code | Université de Nouakchott Al Aasriya
+‏موقع‎ | generic | Helium TLDs Ltd
+‏همراه‎ | generic | Emergency Back-End Registry Operator Program - ICANN
+‏پاکستان‎ | country-code | National Telecommunication Corporation
+‏ڀارت‎ | country-code | National Internet eXchange of India
+みんな | generic | Charleston Road Registry Inc.
+アマゾン | generic | Amazon Registry Services, Inc.
+クラウド | generic | Amazon Registry Services, Inc.
+グーグル | generic | Charleston Road Registry Inc.
+コム | generic | VeriSign Sarl
+ストア | generic | Amazon Registry Services, Inc.
+セール | generic | Amazon Registry Services, Inc.
+テスト | test | Not assigned
+ファッション | generic | Amazon Registry Services, Inc.
+ポイント | generic | Amazon Registry Services, Inc.
+一号店 | generic | Not assigned
+世界 | generic | Stable Tone Limited
+中信 | generic | CITIC Group Corporation
+中国 | country-code | China Internet Network Information Center (CNNIC)
+中國 | country-code | China Internet Network Information Center (CNNIC)
+中文网 | generic | Beijing TLD Registry Technology Limited
+亚马逊 | generic | Amazon Registry Services, Inc.
+企业 | generic | Binky Moon, LLC
+佛山 | generic | Guangzhou YU Wei Information Technology Co., Ltd.
+信息 | generic | Beijing Tele-info Technology Co., Ltd.
+健康 | generic | Stable Tone Limited
+八卦 | generic | Zodiac Gemini Ltd
+公司 | generic | China Internet Network Information Center (CNNIC)
+公益 | generic | China Organizational Name Administration Center
+台湾 | country-code | Taiwan Network Information Center (TWNIC)
+台灣 | country-code | Taiwan Network Information Center (TWNIC)
+商城 | generic | Zodiac Aquarius Limited
+商店 | generic | Binky Moon, LLC
+商标 | generic | Internet DotTrademark Organisation Limited
+嘉里 | generic | Kerry Trading Co. Limited
+嘉里大酒店 | generic | Kerry Trading Co. Limited
+在线 | generic | Beijing TLD Registry Technology Limited
+大众汽车 | generic | Not assigned
+大拿 | generic | VeriSign Sarl
+天主教 | generic | Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
+娱乐 | generic | Binky Moon, LLC
+家電 | generic | Amazon Registry Services, Inc.
+工行 | generic | Not assigned
+广东 | generic | Guangzhou YU Wei Information Technology Co., Ltd.
+微博 | generic | Sina Corporation
+慈善 | generic | Excellent First Limited
+我爱你 | generic | Tycoon Treasure Limited
+手机 | generic | Beijing RITT-Net Technology Development Co., Ltd
+手表 | generic | Not assigned
+招聘 | generic | Jiang Yu Liang Cai Technology Company Limited
+政务 | generic | China Organizational Name Administration Center
+政府 | generic | Net-Chinese Co., Ltd.
+新加坡 | country-code | Singapore Network Information Centre (SGNIC) Pte Ltd
+新闻 | generic | Guangzhou YU Wei Information and Technology Co.,Ltd
+时尚 | generic | RISE VICTORY LIMITED
+書籍 | generic | Amazon Registry Services, Inc.
+机构 | generic | Public Interest Registry
+测试 | test | Not assigned
+淡马锡 | generic | Temasek Holdings (Private) Limited
+測試 | test | Not assigned
+游戏 | generic | Binky Moon, LLC
+澳門 | country-code | Macao Post and Telecommunications Bureau (CTT)
+点看 | generic | VeriSign Sarl
+珠宝 | generic | Not assigned
+移动 | generic | Identity Digital Limited
+组织机构 | generic | Public Interest Registry
+网址 | generic | KNET Co., Ltd
+网店 | generic | Zodiac Taurus Ltd.
+网站 | generic | Global Website TLD Asia Limited
+网络 | generic | China Internet Network Information Center (CNNIC)
+联通 | generic | China United Network Communications Corporation Limited
+诺基亚 | generic | Not assigned
+谷歌 | generic | Charleston Road Registry Inc.
+购物 | generic | Nawang Heli(Xiamen) Network Service Co., LTD.
+通販 | generic | Amazon Registry Services, Inc.
+集团 | generic | Eagle Horizon Limited
+電訊盈科 | generic | PCCW Enterprises Limited
+飞利浦 | generic | Koninklijke Philips N.V.
+食品 | generic | Amazon Registry Services, Inc.
+餐厅 | generic | Internet DotTrademark Organisation Limited
+香格里拉 | generic | Shangri-La International Hotel Management Limited
+香港 | country-code | Hong Kong Internet Registration Corporation Ltd.
+닷넷 | generic | VeriSign Sarl
+닷컴 | generic | VeriSign Sarl
+삼성 | generic | SAMSUNG SDS CO., LTD
+테스트 | test | Not assigned
+한국 | country-code | KISA (Korea Internet & Security Agency)
