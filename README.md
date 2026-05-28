@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ianax/ianax/main/assets/globe-icon.png?raw=true" alt="TLD Tracker Logo" width="120">
+  <img src="https://cdn-icons-png.flaticon.com/512/1037/1037049.png" alt="TLD Tracker Logo" width="100">
 </p>
 
 <h1 align="center">
